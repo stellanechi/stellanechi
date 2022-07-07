@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stellanechi
 - 👀 I’m interested in Front End Engineering
-- 🌱 I’m currently learning CSS and Javascript
-- 💞️ I’m looking to collaborate on Javascript
+- 🌱 I’m currently learning C programming
+- 💞️ I’m looking to collaborate on CSS and JavaScript
 - 📫 How to reach me stellanechi65@gmail.com 
 
 <!---
