@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stellanechi
 - 👀 I’m interested in Front End Engineering
-- 🌱 I’m currently enrolled into a Software Engineering Dipolma at AKX-Africa
+- 🌱 I’m currently enrolled into a Software Engineering Dipolma at ALX-Africa
 - 💞️ I’m open to Internship opportunities 
 - 📫 How to reach me  stellanechi65@gmail.com, https://www.linkedin.com/in/stella-eneh/ 
 
