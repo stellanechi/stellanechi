@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stellanechi
+- 👋 Hi, I’m Eneh Stella Nkechi
 - 👀 I’m interested in Front End Engineering
 - 🌱 I’m currently enrolled into a Software Engineering Dipolma at ALX-Africa
 - 💞️ I’m open to Internship opportunities 
